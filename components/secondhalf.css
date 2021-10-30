@@ -1,0 +1,21 @@
+#parent{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: fit-content;
+    padding: 20px 5px;
+    width: 99%;
+    background-color: #f4f4f4;
+}
+.box{
+    margin: 15px 15px;
+    border-radius: 0.2em;
+    width: 12%;
+    height: fit-content;
+    padding: 5px 5px;
+    background-color: white;
+    box-shadow: 5px 1px 15px 0.2px #8b9290;
+}
+.im{
+    width: 100%;
+}
